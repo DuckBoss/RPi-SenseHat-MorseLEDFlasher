@@ -1,7 +1,7 @@
 # RPi-SenseHat-MorseLEDFlasher
 Flashes a message through the RPi SenseHat LEDs in Morse.
 
-### This project requires Python 3!
+### This project requires Python 3, and it can only be run on raspberry pi devices with an attached sensehat.
 
 ## Usage:
 - Format: 'python3 morse_transcriber.py \<message> \<color>'
