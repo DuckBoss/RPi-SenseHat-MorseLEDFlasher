@@ -3,6 +3,10 @@ Flashes a message through the RPi SenseHat LEDs in Morse.
 
 ### This project requires Python 3, and it can only be run on raspberry pi devices with an attached sensehat.
 
+  
+## Dependencies:
+- sense-hat (can be installed with pip)
+
 ## Usage:
 - Format: 'python3 morse_transcriber.py \<message> \<color>'
   
@@ -11,7 +15,6 @@ Flashes a message through the RPi SenseHat LEDs in Morse.
   python3 morse_transcriber.py "Test Message" 0,0,255
   ```
   
-  
-## Dependencies:
-- sense-hat (can be installed with pip)
+  <img src="https://i.gyazo.com/b99af7a88fc300f6bfdb3e32a49d692a.gif" width="480" height="480" />
+
 
