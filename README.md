@@ -15,6 +15,5 @@ Flashes a message through the RPi SenseHat LEDs in Morse.
   python3 morse_transcriber.py "Test Message" 0,0,255
   ```
   
-  <img src="https://giphy.com/gifs/2uIf2SugYjyxtmNaMh" width="480" height="480" />
-
+  ![Morse GIF](https://user-images.githubusercontent.com/20238115/39659594-b68a7eb2-4ff9-11e8-9c28-b5388f6547ea.gif)
 
